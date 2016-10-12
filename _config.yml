@@ -1,4 +1,11 @@
 # Site settings
+
+# Site settings
+title: birknbasil
+url: www.birknbasil.club
+description: "testinggggg."
+
+
 email: 
 baseurl: ""
 paginate: 5
