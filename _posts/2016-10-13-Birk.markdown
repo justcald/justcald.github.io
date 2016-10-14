@@ -8,4 +8,4 @@ description:
 image: /assets/img/birk.JPG
 image-sm: /assets/img/birk.JPG
 ---
-My parents bought me, I was long, I love coffee. I am back now with them. No more coffee. Still love them. I am nice. Never hurt anyone. Sometimes I am a butt. But it's just because I don't want to hurt anyone. 
+My parents bought me, I was long gone, I love coffee, well I loved it. I am back now with them. No more coffee. Still love them. I am nice. Never hurt anyone. Sometimes I am a butt. But it's just because I don't want to hurt anyone. 
