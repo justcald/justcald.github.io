@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Basil"
+date: 2016-10-13
+categories:
+  - Basil
+description:
+image: /assets/img/basil.JPG
+image-sm: /assets/img/basil.JPG
+---
+Where are my mice?! Can we play? I love you. Lets cuddle. I have a lot of energy!! Yes I do. I want to be your best friend. But only if you will let me. I have claws? I didn't know that.... Can I go outside?! Fine. I'll go outside anyway. 

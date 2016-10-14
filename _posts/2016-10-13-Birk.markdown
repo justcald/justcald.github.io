@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Birk"
+date: 2016-10-13
+categories:
+  - Birk
+description:
+image: /assets/img/birk.JPG
+image-sm: /assets/img/birk.JPG
+---
+My parents bought me, I was long, I love coffee. I am back now with them. No more coffee. Still love them. I am nice. Never hurt anyone. Sometimes I am a butt. But it's just because I don't want to hurt anyone. 
